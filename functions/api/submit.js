@@ -1,5 +1,6 @@
 /**
  * POST /api/submit
+ * Test with WIZ
  */
 export async function onRequestPost(context) {
   try {
