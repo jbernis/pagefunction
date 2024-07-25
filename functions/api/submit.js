@@ -1,6 +1,7 @@
 /**
  * POST /api/submit
  * Test with WIZ
+ * password = 34rtRRE
  */
 export async function onRequestPost(context) {
   try {
